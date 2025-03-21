@@ -4,43 +4,24 @@ A responsive and user-friendly web application for booking and managing doctor a
 
 
 ## Folder Structure
-my-app/
-├── app/
-│   ├── global.css
-│   ├── layout.tsx
-│   ├── page.tsx
-└── components/
-│       ├── AppointmentModal.tsx
-│       ├── CalendarGrid.tsx
-│       ├── DarkModeToggle.tsx
-│       ├── Navbar.tsx
-│       └── Sidebar.tsx
-├── context/
-│   └── AppointmentContext.tsx
-├── node_modules/
-├── .gitignore
-├── next-env.d.ts
-├── next.config.ts
-├── package-lock.json
-├── package.json
-├── postcss.config.js
-└── tsconfig.json
+![image](https://github.com/user-attachments/assets/6b84c76d-c9d7-455e-9175-2129fa5e0671)
+
 
 ## Features
-Core Features
-📅 Monthly Calendar Grid: Displays days of the current month with appointment counts.
-➕ Book Appointment: Click a date to open a modal and book an appointment with date & time.
-✏️ Edit & Delete: Modify or remove existing appointments.
-🔍 Responsive Design: Mobile-first design that works seamlessly across devices.
-🗂️ State Management: Managed via Context API for simplicity and performance.
+Core Features<br>
+📅 Monthly Calendar Grid: Displays days of the current month with appointment counts.<br>
+➕ Book Appointment: Click a date to open a modal and book an appointment with date & time.<br>
+✏️ Edit & Delete: Modify or remove existing appointments.<br>
+🔍 Responsive Design: Mobile-first design that works seamlessly across devices.<br>
+🗂️ State Management: Managed via Context API for simplicity and performance.<br>
 
 ## Tech Stack
-Technology	Description
-Next.js	React framework for server-rendering
-Tailwind CSS	Utility-first CSS for styling
-TypeScript	Strong typing for better development
-Context API	Manage global state for appointments
-date-fns	Date utilities (calendar calculations)
+Technology	Description<br>
+Next.js	React framework for server-rendering<br>
+Tailwind CSS	Utility-first CSS for styling<br>
+TypeScript	Strong typing for better development<br>
+Context API	Manage global state for appointments<br>
+date-fns	Date utilities (calendar calculations)<br>
 
 
 
